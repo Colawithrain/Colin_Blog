@@ -12,7 +12,7 @@ pagination:
     <ul class="list-group list-group-flush px-xs-1 px-md-5 mb-3">
       {% for post in paginator.posts %}
       <li class="list-group-item">
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>
       {% endfor %}
     </ul>
