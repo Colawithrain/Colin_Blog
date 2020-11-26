@@ -26,7 +26,7 @@ collections:
     permalink: "/:collection/:path/"
   posts:
     output: true
-    permalink: "/:collection/:title/"
+    permalink: "/Colin_Blog/:collection/:title/"
 
 # Defaults : these allow you to set default values for front matter
 defaults:
