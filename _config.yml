@@ -23,7 +23,7 @@ collections:
   docs:
     output: true
     # permalink: ""
-    permalink: "/:collection/:path/"
+    permalink: "/Colin_Blog/:collection/:path/"
   posts:
     output: true
     permalink: "/Colin_Blog/:collection/:title/"
