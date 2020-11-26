@@ -65,6 +65,7 @@ GEM
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
       verbal_expressions (~> 0.1.5)
+    jekyll-paginate (1.1.0)
     jekyll-paginate-v2 (1.9.4)
       jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
@@ -120,6 +121,7 @@ DEPENDENCIES
   html-proofer (~> 3.9.1)
   jekyll (~> 3.8.2)
   jekyll-algolia (~> 1.4.2)
+  jekyll-paginate
   jekyll-paginate-v2 (~> 1.9.4)
   jekyll-seo-tag (~> 2.5.0)
   jekyll-sitemap (~> 1.2.0)
