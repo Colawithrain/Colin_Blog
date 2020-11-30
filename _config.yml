@@ -65,7 +65,7 @@ exclude: [
 pagination:
   enabled: true
   per_page: 4 
-  paginate_path: "/Colin_Blog/page:num"
+  paginate_path: "Colin_Blog/page:num"
   sort_reverse: true
   title: ":title"
   trail:
