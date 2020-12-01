@@ -74,6 +74,7 @@ pagination:
 
 # Plugins
 plugins: [jekyll-paginate, jemoji, jekyll-sitemap, jekyll-seo-tag]
+# 找到原因了，因为本地运行的时候v2还在，主动调用了v2的组件，但是gh上面自动不运行v2，所以出不来paginator
 
 # SEO
 social:
